@@ -1,0 +1,15 @@
+.sub-bttn{
+    margin-left:80%;
+    border-radius: 10px;
+}
+
+.backgroundcolor{
+    background-color: rgba(196, 255, 251, 0.856);
+}
+
+.medimg{
+    height: 76%;
+    width: 80%;
+    margin-top: 10%;
+    margin-left: 20%;
+}
